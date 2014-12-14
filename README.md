@@ -1,5 +1,7 @@
 ### Initial setup
 
+*Note:* My default directory is ~/Dropbox/dev/, so if this is different for you, you need to go into the script and change it to whatever directory you want your `todos.txt` file to be. I recommend a service like Dropbox, so that you can have it synchronised across different machines.
+
 To use the script, first make it executable using
 
 ```bash
